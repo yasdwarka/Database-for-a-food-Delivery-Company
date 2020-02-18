@@ -10,4 +10,6 @@ Once a client submits their order, they see a page displaying if the order has g
 
 
 This project includes:
+
+
 UML Diagrams and database, containing a list of clients, a list of the different daily menu items, a list of delivery people and an order history for each client
